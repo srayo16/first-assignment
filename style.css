@@ -1,0 +1,59 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.first{
+    display: flex;
+    padding-left: 5%;
+    
+}
+.color{
+    color: red;
+    
+    font-size: 65px;
+    width: 70%;
+    border-left: 5px solid greenyellow;
+    margin-left: 5px;
+    padding-left: 5px;
+}
+#color2{
+    color: rgb(255, 230, 0);
+    font-size: 65px;
+    width: 50%;
+  
+}
+.second{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    
+}
+.second img{
+    width: 60%;
+    margin: 20px 0px 10px 0px;
+}
+.pera{
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    color: honeydew;
+    background-image: linear-gradient(orange
+    , red
+    );
+    text-align: center;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+#rong{
+    color: maroon;
+
+}
+.tittle{
+    text-align: center;
+    font-size: 50px;
+}
+.third{
+    display: flex;
+}
