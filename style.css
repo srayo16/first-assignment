@@ -105,6 +105,12 @@ body{
     padding-left: 5%;
     margin: auto;
     box-sizing: border-box;
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: 110px;
+    background-position-y: 50px;
+    background-size: 80px;
+    margin-bottom: 100px;
     
 }
 .row{
@@ -119,6 +125,7 @@ body{
 .row img{
   box-sizing: border-box;
   margin: auto;
+  
   
     
 }
@@ -150,4 +157,110 @@ body{
    
     
 }
+.another1{
+    display: flex;
+    padding-left: 5%;
+   margin-bottom: 150px;
+    box-sizing: border-box;
+   background-image: url(images/shapes/shape-1.png);
+   background-repeat: no-repeat;
+   background-size: 100px;
+   background-position-x: 92%;
+   background-position-y: 100%;
+    
+}
+.row2{
+    padding-left: 5%;
+    box-sizing: border-box;
+    
+    width: 50%;
+}
+.row2 img{
+    box-sizing: border-box;
+    padding-right: 0px;
+    
+}
+.two1{
+    font-size: 40px;
+    width: 50%;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    padding-right: 5%;
+}
+.pera3{
+    width: 100%;
+    margin-left: 0px;
+    
+    margin-bottom: 30px;
+   margin-top: 0px;
+}
+.button3{
+    text-decoration: none;
+    color: honeydew;
+    background-image: linear-gradient(orange
+    , red
+    );
+    text-align: center;
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin: auto;
+}
+.last{
+    display: flex;
+    padding-left: 5%;
+    
+    box-sizing: border-box;
+    
+}
+    
+    
+   
 
+.header{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.sesh{
+    padding-left: 5%;
+    box-sizing: border-box;
+    margin-right: 0px;
+    width: 50%;
+}
+.sesh img{
+    box-sizing: border-box;
+    margin-right: 0px;
+  width: 80%;
+}
+  .pera4{
+    width: 75%;
+    ;
+    text-align: justify;
+   
+    
+    margin-bottom: 30px;
+   
+   background: rgba(127, 193, 255, 0.507);
+   padding: 5% 5% 5% 5%;
+    margin: 0%;
+
+    border-radius: 5%;
+
+    
+  }
+  .button5{
+    text-decoration: none;
+    color: honeydew;
+    background-image: linear-gradient(orange
+    , red
+    );
+    text-align: center;
+    padding: 10px 40px;
+    border-radius: 5px;
+    
+    margin-left: 215px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
