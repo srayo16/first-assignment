@@ -6,6 +6,7 @@ body{
     display: flex;
     padding-left: 5%;
     
+    
 }
 .color{
     color: red;
@@ -55,5 +56,64 @@ body{
     font-size: 50px;
 }
 .third{
+    background: khaki;
+    width: 30%;
+    margin-left: 5%;
+    border-radius: 5%;
     
+}
+.box3{
+    width: 90%;
+    margin-left: 5%;
+}
+.third img{
+    width: 50%;
+    margin-left: 5%;
+}
+.box2{
+    margin-left: 5%;
+}
+
+.fourth{
+    background: rgba(139, 139, 255, 0.507);
+    width: 30%;
+    margin-left: 2%;
+    border-radius: 5%;
+}
+.fourth img{
+    width: 50%;
+    margin-left: 5%;
+}
+.fifth{
+    background: rgb(215, 255, 183);
+    width: 30%;
+    margin-left: 2%;
+    border-radius: 5%;
+}
+.fifth img{
+    width: 50%;
+    margin-left: 5%;
+}
+.areh{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 20px;
+}
+.another{
+    display: flex;
+    padding-left: 5%;
+}
+.row{
+    width: 80%;
+    margin-top: 100px;
+    margin-right: 5%;
+    margin-bottom: 20px;
+    padding-right: 5%;
+    
+}
+.row img{
+    width: 80%;
+    padding-left: 5%;    
+    margin-right: 0px;
 }
